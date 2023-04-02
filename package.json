@@ -26,6 +26,9 @@
     "webpack-cli": "^5.0.1"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "@allvb/ajs": "^1.0.1"
   }
 }
